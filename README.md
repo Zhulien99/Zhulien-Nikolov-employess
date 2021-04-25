@@ -1,5 +1,4 @@
 # Zhulien-Nikolov-employess
-Sirma test
 Даден е текстов файл във формат:
 EmpID, ProjectID, DateFrom, DateTo
 Примерни данни:
